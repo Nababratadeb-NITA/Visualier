@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://imgs.search.brave.com/xl4kl0EvdhtS1cMtGYmQOHT3pJjlUAe1nEeI3Nr0560/rs:fit:1000:704:1/g:ce/aHR0cHM6Ly9yYWRk/ZXZvbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMTAv/cmVhY3QuanBn" alt="Logo" width="80" height="80">
+    <img src="https://imgs.search.brave.com/xl4kl0EvdhtS1cMtGYmQOHT3pJjlUAe1nEeI3Nr0560/rs:fit:1000:704:1/g:ce/aHR0cHM6Ly9yYWRk/ZXZvbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMTAv/cmVhY3QuanBn" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center">Algorithm Visulizer</h3>
