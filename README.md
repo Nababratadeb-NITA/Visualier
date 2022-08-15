@@ -24,8 +24,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://imgs.search.brave.com/xl4kl0EvdhtS1cMtGYmQOHT3pJjlUAe1nEeI3Nr0560/rs:fit:1000:704:1/g:ce/aHR0cHM6Ly9yYWRk/ZXZvbi5jb20vd3At/Y29udGVudC91cGxv/YWRzLzIwMTgvMTAv/cmVhY3QuanBn" alt="Logo" width="100" height="80">
+  <a href="https://my-portfolio-rho-lilac.vercel.app/">
+    <img src="https://i.pinimg.com/564x/a8/bf/3c/a8bf3c860c6eedfe0776e91441ed2ca3.jpg" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center">Algorithm Visulizer</h3>
