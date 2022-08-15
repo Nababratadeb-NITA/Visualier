@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://my-portfolio-rho-lilac.vercel.app/">
-    <img src="https://i.pinimg.com/564x/a8/bf/3c/a8bf3c860c6eedfe0776e91441ed2ca3.jpg" alt="Logo" width="200" height="120">
+    <img src="https://i.pinimg.com/564x/a8/bf/3c/a8bf3c860c6eedfe0776e91441ed2ca3.jpg" alt="Logo" width="400" height="240">
   </a>
 
   <h3 align="center">Algorithm Visulizer</h3>
