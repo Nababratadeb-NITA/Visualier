@@ -13,9 +13,16 @@
     display: inline-block;
     font-size: 16px;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .btn:hover{
     background-color: blue;
     color: white;
+}
+
+.btns {
+    display: flex ;
+    justify-content: space-evenly;
+    align-items: center;
 }

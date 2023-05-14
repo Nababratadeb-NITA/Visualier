@@ -6,7 +6,7 @@ function Nav() {
   return (
     <div className="nav">
       <div className="nav_logo">
-        Visualizer <DiCode className="nav__icon" />
+        Maze Game <DiCode className="nav__icon" />
       </div>
     </div>
   );
